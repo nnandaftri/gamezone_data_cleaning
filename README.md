@@ -14,4 +14,5 @@ Langkah-langkah pembersihan data yang akan dilakukan yaitu:
 8. Remove Duplicate Values
    Pada dataset ini kolom ORDER_ID tidak boleh duplikat. Mengecek duplikat values digunakan pivot table, dan ternyata terdapat 145 ORDER_ID yang duplikat.
    Untuk menghapus duplikat menggunakan cara: Data → Remove Duplicates
-   <img width="269" height="164" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/9ae7cceb-5aa6-46d9-ae5b-d244e88570df" />
+   <img width="1499" height="827" alt="image" src="https://github.com/user-attachments/assets/fb8561ca-c9da-4f0a-baf9-a656de0128ee" />
+
